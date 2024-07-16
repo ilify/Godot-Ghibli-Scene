@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ghibli/Anime Style Texturing (Free Tutorial)
+* source:	https://sketchfab.com/3d-models/ghiblianime-style-texturing-free-tutorial-91fefefe0a1443b2826e75440841e282
+* author:	Stylized Station (https://sketchfab.com/stylizedstation)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ghibli/Anime Style Texturing (Free Tutorial)" (https://sketchfab.com/3d-models/ghiblianime-style-texturing-free-tutorial-91fefefe0a1443b2826e75440841e282) by Stylized Station (https://sketchfab.com/stylizedstation) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
